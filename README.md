@@ -4,7 +4,7 @@ PatcherGUI  is a user friendly interface for the original patcher  library for p
 
 
 ## Basic Usage
-1. Download the latest version 
+1. Download the latest version  
 2. Enter your Modder name
 3. Enter your Menu Tittle 
 4. Do your work ( add cheats to list etc...)
