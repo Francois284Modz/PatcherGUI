@@ -1,0 +1,15 @@
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\bin\Debug\Patcher GUI By Francois284ModzDev.exe.config
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\bin\Debug\Patcher GUI By Francois284ModzDev.exe
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\bin\Debug\Patcher GUI By Francois284ModzDev.pdb
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\obj\Debug\Patcher GUI By Francois284ModzDev.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\obj\Debug\Patcher_GUI_By_Francois284ModzDev.Form1.resources
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\obj\Debug\Patcher_GUI_By_Francois284ModzDev.Properties.Resources.resources
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\obj\Debug\Patcher GUI By Francois284ModzDev.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\obj\Debug\Patcher GUI By Francois284ModzDev.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\obj\Debug\Patcher GUI By Francois284ModzDev.csproj.CopyComplete
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\obj\Debug\Patcher GUI By Francois284ModzDev.exe
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\obj\Debug\Patcher GUI By Francois284ModzDev.pdb
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\bin\Debug\LogIn Theme Dll By xVenoxi.dll
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\obj\Debug\Patcher GUI By Francois284ModzDev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Home\source\repos\Patcher GUI By Francois284ModzDev\bin\Debug\Newtonsoft.Json.xml
