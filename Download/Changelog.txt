@@ -1,3 +1,0 @@
-Version 1.0
-
-first release to public report bug in issues
